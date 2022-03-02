@@ -55,7 +55,6 @@ public class Pizarra2 extends javax.swing.JFrame {
     /**
      * Creates new form Pizarra2
      */
-
     static final int LINEA = 0;
     static final int TRIANGULO = 1;
 
